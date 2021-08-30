@@ -16,7 +16,7 @@
   "dependencies": {
     "discord-sender": "^1.2.9",
     "discord.js": "^12.5.3",
-    "modmail.js": "^2.0.3",
+    "modmail.js": "^3.0.4",
     "bsapi.js": "^1.0.8",
     "emz": "^0.1.0",
     "sandy.js": "1.0.0"
